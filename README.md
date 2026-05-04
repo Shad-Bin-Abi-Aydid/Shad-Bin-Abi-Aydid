@@ -96,8 +96,9 @@ Currently working as a **Web Designer at CLS UK Services**, where I independentl
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shad-Bin-Abi-Aydid&theme=dark&hide_border=true)
+![Shad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shad-Bin-Abi-Aydid&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad-Bin-Abi-Aydid&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 
 </div>
