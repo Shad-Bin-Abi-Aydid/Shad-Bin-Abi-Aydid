@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Shad 👋
+# Hi there, I'm Shad Aydid 👋
 
 ### Full Stack Developer · MSc Cybersecurity · Building Secure, Production-Ready Web Apps
 
