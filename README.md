@@ -7,7 +7,7 @@ Slough, United Kingdom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shad--aydid-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shad-aydid)
 [![Email](https://img.shields.io/badge/Email-shadaydid%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shadaydid@gmail.com)
 
-Full Stack Developer with 3+ years of commercial experience building production web applications with React, Next.js, TypeScript and Node.js. I'm currently a Web Developer at **CLS UK Services**, where I built the company website single-handedly and develop a full-stack Next.js booking platform that handles around 20 bookings a week. With an MSc in Cybersecurity from the University of Portsmouth, I build with security, data integrity and performance in mind from the start.
+Full Stack Developer with 3+ years of commercial experience building production web applications with React, Next.js, TypeScript and Node.js. I'm currently a Web Developer at **CLS UK Services**, where I designed and built the company website and develop a full-stack Next.js booking platform that handles around 20 bookings a week. With an MSc in Cybersecurity from the University of Portsmouth, I build with security, data integrity and performance in mind from the start.
 
 Open to full-time Full Stack Developer roles in the UK.
 
